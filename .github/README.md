@@ -1,8 +1,8 @@
-# Instalaciones Independientes
+<h1>Instalaciones Independientes</h1>
 
 ## Desarrolladores Tools
 
-<h3><a>Volta, Node.js y Yarn</a></h3>
+<h3><a href="https://docs/volta_tools" target="_blank" rel="noreferrer">Volta, Node.js y Yarn</a></h3>
 <h3><a>Editor de Código</a></h3>
 
 - **VSCode**
