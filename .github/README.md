@@ -3,6 +3,13 @@
 ## Herramientas de Desarrollo
 
 <h3><a href="https://github.com/DaniDeDos/tools-compilation/blob/main/.github/docs/volta_tools/volta_tools.md">Volta + Tools </a>( node => yarn )</h3>
+
+<br>
+<h2>Proyecto en Desarrollo</h2>
+<br>
+
+<!---
+
 <h3><a>Editor de Código</a></h3>
 
 - **VSCode**
@@ -44,7 +51,6 @@
   <li><a>Yarn</a></li>
 </ul>
 
-<!---
 ## Recursos Adicionales
 
 ### Documentación Oficial
