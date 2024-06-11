@@ -2,7 +2,7 @@
 
 ## Desarrolladores Tools
 
-<h3><a href="https://docs/volta_tools" target="_blank" rel="noreferrer">Volta, Node.js y Yarn</a></h3>
+<h3><a href="https://github.com/DaniDeDos/tools-compilation/blob/main/.github/docs/volta_tools/volta_tools.md" target="_blank" rel="noreferrer">Volta, Node.js y Yarn</a></h3>
 <h3><a>Editor de Código</a></h3>
 
 - **VSCode**
