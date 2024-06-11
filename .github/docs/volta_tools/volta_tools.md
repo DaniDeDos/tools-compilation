@@ -1,4 +1,4 @@
-<div><h1>Instalar Volta + Tools <a href="#">( node => yarn )</a></h1>
+<div><h1><a href="#">Instalar Volta + Tools</a> ( node => yarn )</h1>
  
 <h2>Instalar <a href="https://docs.volta.sh/guide/getting-started">Volta</a></h2>
 
