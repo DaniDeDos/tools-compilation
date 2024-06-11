@@ -36,3 +36,25 @@
 
 - **Repo 1**: [Descripción breve y enlace]
 - **Repo 2**: [Descripción breve y enlace]
+
+<!---
+## Recursos Adicionales
+
+### Documentación Oficial
+
+- **Volta**: [Enlace a la documentación oficial de Volta](https://volta.sh/)
+- **Node.js**: [Enlace a la documentación oficial de Node.js](https://nodejs.org/en/docs/)
+- **Yarn**: [Enlace a la documentación oficial de Yarn](https://yarnpkg.com/getting-started)
+
+### Comunidades Online
+
+- **Otra Comunidad**: [Descripción breve y enlace]
+- **Otra Comunidad 2**: [Descripción breve y enlace]
+
+### Repositorios Públicos
+
+- **Repo 1**: [Descripción breve y enlace]
+- **Repo 2**: [Descripción breve y enlace]
+
+
+>
