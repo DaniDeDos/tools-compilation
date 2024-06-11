@@ -37,6 +37,13 @@
 - **Repo 1**: [Descripción breve y enlace]
 - **Repo 2**: [Descripción breve y enlace]
 
+<h2>Referencias Oficliales</h2>
+<ul>
+  <li><a>Volta</a></li>
+  <li><a>Node.js</a></li>
+  <li><a>Yarn</a></li>
+</ul>
+
 <!---
 ## Recursos Adicionales
 

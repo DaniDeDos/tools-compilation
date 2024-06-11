@@ -75,12 +75,5 @@
   source ~/.zshrc
   ```
 
-<h2>Referencias Oficliales</h2>
-<ul>
-  <li><a>Volta</a></li>
-  <li><a>Volta</a></li>
-  <li><a>Volta</a></li>
-</ul>
-
 <h2></h2>
-<div align="right"><a>Página Principal</a></div>
+<div align="right"><a href="https://github.com/DaniDeDos/tools-compilation">Página Principal</a></div>
