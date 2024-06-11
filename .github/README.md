@@ -1,0 +1,38 @@
+# Instalaciones Independientes
+
+## Desarrolladores Tools
+
+<h3><a>Volta, Node.js y Yarn</a></h3>
+<h3><a>Editor de Código</a></h3>
+
+- **VSCode**
+
+## Terminal y Herramientas
+
+### Terminal
+
+- **Kitty**
+
+### Editores de Texto
+
+- **Vim**
+- **Neovim**
+
+<h2>Recursos Adicionales</h2>
+
+<h3>Documentación Oficial</h3>
+<ul>
+  <li><a>Volta</a></li>
+  <li><a>Node</a></li>
+  <li><a>Yarn</a></li>
+</ul>
+
+### Comunidades Online
+
+- **Otra Comunidad**: [Descripción breve y enlace]
+- **Otra Comunidad 2**: [Descripción breve y enlace]
+
+### Repositorios Públicos
+
+- **Repo 1**: [Descripción breve y enlace]
+- **Repo 2**: [Descripción breve y enlace]
