@@ -1,5 +1,9 @@
 <h1>Instalaciones Independientes</h1>
 
+## Grub theme
+
+<h3><a href="https://github.com/vinceliuice/grub2-themes">grub2-themes</h3>
+
 ## Herramientas de Desarrollo
 
 <h3><a href="https://github.com/DaniDeDos/tools-compilation/blob/main/.github/docs/volta_tools/volta_tools.md">Volta + Tools </a>( node => yarn )</h3>
