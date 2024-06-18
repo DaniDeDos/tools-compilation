@@ -12,6 +12,17 @@
 <h2>Proyecto en Desarrollo</h2>
 <br>
 
+<h2>Acknowledgements</h2>
+<h4>Credits:</h4>
+<ul>
+  <li>
+  <a target="_blank" rel="noreferrer" href="https://github.com/prasanthrangan/hyprdots">prasanthrangan</a>
+</li>
+  <li>
+  <a target="_blank" rel="noreferrer" href="https://github.com/vinceliuice/grub2-themes">vinceliuice</a>
+</li>
+</ul>
+
 <!---
 
 <h3><a>Editor de Código</a></h3>
@@ -72,6 +83,5 @@
 
 - **Repo 1**: [Descripción breve y enlace]
 - **Repo 2**: [Descripción breve y enlace]
-
 
 >
